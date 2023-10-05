@@ -1,5 +1,6 @@
 # Frontend-Progress
 Tracking Progress+projects for front-end web dev
+[Landing Page](https://pratikshadpai.github.io/Frontend-Progress/)
 
 ## HTML: 
 1. [Free Code Camp intro to HTML](https://www.freecodecamp.org/news/html-crash-course/)
