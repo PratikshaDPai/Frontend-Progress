@@ -10,7 +10,16 @@ Tracking Progress+projects for front-end web dev
 ## CSS:
 1. [Free Code Camp YT CSS video](https://www.youtube.com/watch?v=ieTHC78giGQ)
 
-## JS:
+## JS: 
+### Fun Fun Function
+- [Functional Programming in JS: Higher Order Functions](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=2)
+- [Functional Programming in JS: Map](https://www.youtube.com/watch?v=bCqtb-Z5YGQ&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=2)
+- [Functional Programming in JS: Advance Reduce](https://www.youtube.com/watch?v=1DMolJ2FrNY&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=4)
+- [Functional Programming in JS: Closures](https://www.youtube.com/watch?v=CQqwU2Ixu-U&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=5)
+- [Functional Programming in JS: Currying](https://www.youtube.com/watch?v=iZLP4qOwY8I&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=6)
+- [Functional Programming in JS: Recursion](https://www.youtube.com/watch?v=k7-N8R0-KY4&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=7)
+- [Functional Programming in JS: Promises](https://www.youtube.com/watch?v=2d7s3spWAzo&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=8)
+- [My Functional Programming practice repo](https://github.com/PratikshaDPai/Functional-Programming-Sandbox)
 ### [JavaScript.info](https://javascript.info/) :
 - An introduction
     - An Introduction to JavaScript
@@ -71,10 +80,19 @@ Tracking Progress+projects for front-end web dev
     - Links and Images
     
     - Commit Messages
+
+- CSS Foundations
+    - Intro to CSS
+    
+    - The Cascade
+    
+    - Inspecting HTML and CSS
+
+
  
 ## Mini Projects
 1. [Color Game](https://jsfiddle.net/d0r8aqse/3/)
-2. Recipes
+2. [Password Game](https://github.com/PratikshaDPai/Password-Game/tree/main)
 
 
 
