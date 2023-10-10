@@ -9,6 +9,10 @@ Tracking Progress+projects for front-end web dev
 
 ## CSS:
 1. [Free Code Camp YT CSS video](https://www.youtube.com/watch?v=ieTHC78giGQ)
+2. [Inline vs Block vs Inline-block](https://www.digitalocean.com/community/tutorials/css-display-inline-vs-inline-block)
+3. [W3schools Common Flex Values](https://www.w3.org/TR/css-flexbox-1/#flex-common)
+4. [Flex-CSS MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
+5. [`align-content` vs `align-items`](https://stackoverflow.com/questions/27539262/whats-the-difference-between-align-content-and-align-items)
 
 ## JS: 
 ### Fun Fun Function
@@ -20,6 +24,7 @@ Tracking Progress+projects for front-end web dev
 - [Functional Programming in JS: Recursion](https://www.youtube.com/watch?v=k7-N8R0-KY4&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=7)
 - [Functional Programming in JS: Promises](https://www.youtube.com/watch?v=2d7s3spWAzo&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=8)
 - [My Functional Programming practice repo](https://github.com/PratikshaDPai/Functional-Programming-Sandbox)
+  
 ### [JavaScript.info](https://javascript.info/) :
 - An introduction
     - An Introduction to JavaScript
@@ -87,7 +92,47 @@ Tracking Progress+projects for front-end web dev
     - The Cascade
     
     - Inspecting HTML and CSS
+ 
+    - The Box Model
+    
+    - Block and Inline
 
+- Flexbox
+    - Introduction to Flexbox
+
+    - Growing and Shrinking
+
+    - Axes
+
+    - Alignment
+ 
+    - Project-Landing Page(TODO)
+ 
+      
+- JavaScript Basics
+    - Fundamentals Part 1
+
+    - Fundamentals Part 2(TODO)
+
+    - JavaScript Developer Tools
+
+    - Fundamentals Part 3
+
+    - Problem Solving
+
+    - Understanding Errors
+
+    - Project: Rock Paper Scissors(TODO)
+
+    - Clean Code
+
+    - Installing Node.js
+
+
+## Dev Tools
+- [Clean Code Guidelines](https://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/)
+- [Chrome Dev Tools Overview Video](https://www.youtube.com/watch?v=VYyQv0CSZOE&t=10s)
+- [Devdocs.io](https://devdocs.io/dom/)
 
  
 ## Mini Projects
