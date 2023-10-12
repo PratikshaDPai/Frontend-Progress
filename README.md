@@ -106,7 +106,7 @@ Tracking Progress+projects for front-end web dev
 
     - Alignment
  
-    - Project-Landing Page(TODO)
+    - Project-Landing Page
  
       
 - JavaScript Basics
