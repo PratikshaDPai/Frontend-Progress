@@ -1,18 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Landing Page</title>
-</head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
 
-<body>
-    <h1>Welcome to my Projects</h1>
-    <ol>
-        <li><a href="./odin-links-and-images/index.html">links and images</a></li>
-        <li><a href="./odin-recipes/index.html">recipes</a></li>
-    </ol>
-</body>
-
+  <body>
+    <div id="header" class="header">
+      <div class="header-top">
+        <p id="header-logo">Header Logo</p>
+        <a
+          href="https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png"
+          >Header link 1 </a
+        >
+        <a
+          href="https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png"
+          >Header Link 2 </a
+        >
+      </div>
+      <h1>Welcome to my Projects</h1>
+      <p id="header-info">
+        This is my frontend-progress landing page, where I mark my progress
+        <button class="signup">Sign up</button>
+      </p>
+    </div>
+    <div class="projects">
+      <ul>
+        <li>
+          <img src="./sunset svg/14_(50).jpg" />
+          <div class="overlay">
+            <div class="text">
+              <a href="./odin-recipes/index.html">Recipes </a>
+            </div>
+          </div>
+        </li>
+        <li>
+          <img src="./sunset svg/14_(50).jpg" />
+          <div class="overlay">
+            <div class="text">
+              <a href="./odin-recipes/index.html"> Recipes </a>
+            </div>
+        </li>
+        <li>
+          <img src="./sunset svg/14_(50).jpg" />
+          <div class="overlay">
+            <div class="text">
+              <a href="./odin-links-and-images/index.html"> Odin Links and Images </a>
+            </div>
+        </li>
+        <li>
+          <img src="./sunset svg/14_(50).jpg" />
+        </li>
+      </ul>
+    </div>
+    <div class="quote">
+      <p>
+        "Yesterday is history, tomorrow is a mystery; But today is a gift- that
+        is why it is called The Present."
+      </p>
+    </div>
+    <div class="sign">
+      <h5>Call to Action, it's time!</h5>
+      <p id="sign-up-para">Sign up by clicking on this button</p>
+      <button class="signup">Sign up</button>
+    </div>
+  </body>
 </html>

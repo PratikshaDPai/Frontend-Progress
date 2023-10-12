@@ -1,0 +1,112 @@
+.projects {
+  position: relative;
+  width: 90%;
+}
+
+h1 {
+  color: wheat;
+  background-color: #1f2937;
+  font-size: 48px;
+  font-weight: bolder;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+/* * {
+  border: 2px solid red;
+} */
+body {
+  background-color: white;
+}
+
+.header {
+  background-color: #1f2937;
+  color: white;
+  padding-left: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.signup {
+  display: inline;
+  font-size: 15px;
+  font-style: normal;
+  border: 2px solid white;
+  border-radius: 10%;
+  color: white;
+  background-color: #3882f6;
+}
+
+.sign {
+  display: flex;
+  color: white;
+  justify-content: space-evenly;
+  background-color: #3882f6;
+}
+
+.quote {
+  display: flex;
+  padding-left: 10%;
+  padding-right: 10%;
+  background-color: gainsboro;
+  font-size: 36px;
+  font-style: italic;
+}
+
+ul {
+  padding-inline-start: 30px;
+  display: flex;
+  flex: auto;
+  justify-content: space-around;
+  align-items: center;
+}
+li {
+  display: flex;
+  justify-content: center;
+}
+img {
+  object-fit: scale-down;
+  max-width: 80px;
+  max-height: 80px;
+  border: 2px solid #3882f6;
+  border-radius: 15%;
+}
+
+.overlay {
+  margin-left: -84px;
+  height: 84px;
+  width: 84px;
+  opacity: 0;
+  transition: 0.5s ease;
+  background-color: #1f2937;
+  border-radius: 15%;
+}
+
+.projects:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  margin: 10%;
+}
+a {
+  display: flex;
+  flex-wrap: wrap;
+  color: wheat;
+  padding-right: 5%;
+}
+
+.header-top {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  align-items: start;
+  width: 90%;
+}
+
+#header-logo {
+  margin-top: 0%;
+  flex: auto;
+  align-self: top;
+  justify-content: flex-start;
+}
