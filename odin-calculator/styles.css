@@ -1,0 +1,61 @@
+.container {
+  background-color: rgb(168, 111, 168);
+  display: grid;
+  grid-template-columns: repeat(4, 80px);
+  grid-template-rows: repeat(5, 100px);
+  margin: auto;
+  max-width: 320px;
+}
+#input {
+  display: block;
+  width: 310px;
+  height: 80px;
+  font-size: 30px;
+  font-weight: bolder;
+  margin: auto;
+}
+.num {
+  background-color: purple;
+  color: wheat;
+  font-size: 25px;
+  justify-self: center;
+  align-self: center;
+  padding: 40%;
+}
+.num:hover {
+  background-color: rgb(184, 86, 186);
+}
+
+.operator,
+#clear {
+  background-color: #68153b;
+  color: wheat;
+  font-size: 25px;
+  justify-self: center;
+  align-self: center;
+  padding: 40%;
+  grid-column-start: 4;
+}
+
+.operator:hover {
+  background-color: chocolate;
+}
+#minus,
+#div {
+  padding-right: 45%;
+}
+
+#clear,
+#equals {
+  padding-left: 35%;
+}
+
+#clear:hover,
+#equals:hover {
+  background-color: crimson;
+}
+
+#clear {
+  font-size: 15;
+  padding-right: 20%;
+}

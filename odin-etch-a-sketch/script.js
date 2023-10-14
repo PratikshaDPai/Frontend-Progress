@@ -25,8 +25,8 @@ for (sizeX = 0; sizeX < size; sizeX++) {
 
 const clear = document.querySelectorAll(".content");
 const btn = document.querySelector("#btn");
-btn.addEventListener("click", function () {
-  for (let content of clear) {
+btn.addEventListener("click", () => {
+  for (const content of clear) {
     content.style.opacity = 0;
   }
 });
