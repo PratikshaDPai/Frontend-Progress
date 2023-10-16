@@ -38,23 +38,36 @@ function calculator(nums) {
   }
   return 0;
 }
-let userInput = [];
+let userInput = new Array(3);
+let userInputString = "";
 const nums = document.querySelectorAll(".num");
 const operators = document.querySelectorAll(".operator");
 const inputBox = document.querySelector("#input");
 const equals = document.querySelector("#equals");
+const clear = document.querySelector("#clear");
 function calculate() {
-  console.log(userInput);
   inputBox.value = calculator(userInput);
-  if (inputBox.value === 0) {
-    userInput = [];
-  } else userInput = [inputBox.value];
+  userInput = [];
+  if (inputBox.value !== 0) userInput.push(inputBox.value);
   console.log(`calculate ${userInput}`);
 }
 function addtoInputBox(data) {
   data.addEventListener("click", () => {
-    inputBox.value = data.innerHTML;
+    inputBox.value = data.id;
+    if (
+      data.id === "plus" ||
+      data.id === "minus" ||
+      data.id === "mul" ||
+      data.id === "div"
+    ) {
+      inputBox.value = data.innerHTML.trim();
+      userInputString = userInput.join("");
+      console.log(`userinputstring=${userInputString}`);
+      userInput = [];
+      userInput.push(userInputString);
+    }
     userInput.push(inputBox.value);
+    if (userInput.length === 3) calculate();
     console.log(`addtoInputBox ${userInput}`);
   });
 }
@@ -65,3 +78,7 @@ for (const operator of operators) {
   addtoInputBox(operator);
 }
 equals.addEventListener("click", calculate);
+clear.addEventListener("click", () => {
+  userInput = [];
+  inputBox.value = userInput;
+});

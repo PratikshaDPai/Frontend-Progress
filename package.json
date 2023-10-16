@@ -1,0 +1,17 @@
+{
+  "name": "frontend-progress",
+  "version": "1.0.0",
+  "description": "Tracking Progress+projects for front-end web dev\r [Landing Page](https://pratikshadpai.github.io/Frontend-Progress/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.28.1"
+  }
+}
