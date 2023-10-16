@@ -1,4 +1,4 @@
-# Frontend-Progress
+66# Frontend-Progress
 Tracking Progress+projects for front-end web dev
 [Landing Page](https://pratikshadpai.github.io/Frontend-Progress/)
 
@@ -39,7 +39,7 @@ Tracking Progress+projects for front-end web dev
     - Data types
  
 ## The Odin Project
-### [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations)
+### [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) :heavy_check_mark:
 - Introduction
     - How This Course Will Work
 
@@ -127,6 +127,16 @@ Tracking Progress+projects for front-end web dev
     - Clean Code
 
     - Installing Node.js
+ 
+    - Fundamentals Part 4
+
+    - DOM Manipulation and Events
+
+    - Project: Etch-a-Sketch
+
+    - Fundamentals Part 5
+
+    - Project: Calculator
 
 
 ## Dev Tools
