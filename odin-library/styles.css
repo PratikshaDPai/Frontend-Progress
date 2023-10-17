@@ -1,0 +1,54 @@
+button {
+  background-color: rgb(178, 95, 32);
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  padding: 15px;
+  box-shadow: 5px 7px #7d7d7d;
+  cursor: pointer;
+  display: block;
+  margin: 10%;
+}
+.container {
+  display: flex;
+  flex: auto;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.new-book-icon {
+  display: inline-block;
+  height: 160px;
+  width: 120px;
+  border: 2px solid teal;
+  background-color: maroon;
+}
+
+#new-book-form {
+  display: none;
+}
+
+.book-title {
+  display: flex;
+  align-self: center;
+  flex-wrap: wrap;
+  font-weight: bold;
+  color: gold;
+  padding: 10%;
+  border: 2px solid goldenrod;
+}
+label {
+  display: block;
+}
+#bookmarked {
+  color: goldenrod;
+  background-color: maroon;
+  font-size: 48px;
+  padding: 5%;
+}
+body {
+  background-color: bisque;
+}
