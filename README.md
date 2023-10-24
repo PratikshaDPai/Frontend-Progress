@@ -38,6 +38,8 @@ Tracking Progress+projects for front-end web dev
     - Variables
     - Data types
  
+### [JavaScript-Practice Repo](https://github.com/PratikshaDPai/JavaScript-Practice/tree/main)
+ 
 ## The Odin Project
 ### [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) :heavy_check_mark:
 - Introduction
@@ -137,6 +139,22 @@ Tracking Progress+projects for front-end web dev
     - Fundamentals Part 5
 
     - Project: Calculator
+
+### [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
+#### [Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
+
+#### [Java Script Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript)
+- Introduction
+    - How This Course Will Work
+
+    - A Quick Review
+
+- Organizing Your Javascript Code
+    - Organizing Your Javascript Code Introduction
+
+    - Objects and Object Constructors
+
+
 
 
 ## Dev Tools
