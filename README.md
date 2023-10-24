@@ -37,6 +37,26 @@ Tracking Progress+projects for front-end web dev
     - The modern mode, `"use strict"`
     - Variables
     - Data types
+    - Interaction: alert, prompt, confirm
+    - Type Conversions
+    - Basic operators, maths
+    - Comparisons
+    - Conditional branching: if, '?'
+    - Logical operators
+    - Nullish coalescing operator '??'
+    - Loops: while and for
+    - The "switch" statement
+    - Functions
+    - Function expressions
+    - Arrow functions, the basics
+    - JavaScript specials
+- Code quality
+    - Debugging in the browser
+    - Coding Style
+    - Comments
+    - Ninja code
+    - Automated testing with Mocha[to Redo]
+    - Polyfills and transpilers
  
 ### [JavaScript-Practice Repo](https://github.com/PratikshaDPai/JavaScript-Practice/tree/main)
  
@@ -153,6 +173,27 @@ Tracking Progress+projects for front-end web dev
     - Organizing Your Javascript Code Introduction
 
     - Objects and Object Constructors
+ 
+    - Project: Library :heavy_check_mark:
+ 
+- JS in the Real World
+    - Linting
+
+    - What is ES6?
+ 
+- A Bit of Computer Science
+    - A Very Brief Intro to CS
+
+    - Recursive Methods [Practice](https://github.com/PratikshaDPai/JavaScript-Practice/tree/main/recursion)
+ 
+    - Time Complexity
+ 
+- Intermediate Git
+    - A Deeper Look at Git
+
+    - Working with Remotes
+
+    - Using Git in the Real World
 
 
 
