@@ -49,6 +49,13 @@ label {
   font-size: 48px;
   padding: 5%;
 }
+
+#read {
+  font-size: 15px;
+  padding: 5px;
+  background-color: maroon;
+  color: gold;
+}
 body {
   background-color: bisque;
 }
