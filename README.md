@@ -176,6 +176,10 @@ Tracking Progress+projects for front-end web dev
  
     - Project: Library :heavy_check_mark:
  
+    - Factory Functions and the Module Pattern
+ 
+    - Project: Tic Tac Toe
+ 
 - JS in the Real World
     - Linting
 
